@@ -5,9 +5,60 @@ sections:
   - type: GenericSection
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Henrique da Rosa é natural de Florianópolis. Por influência do avô
+      materno, ingressou na faculdade de direito em 1994, colando grau em 1999.
+      Atuou na advocacia privada de 2000 até 2004. Como advogado, foi um dos
+      coautores da primeira ação judicial no Brasil a condenar a União por trote
+      ocorrido nas forças armadas. Em dezembro de 2004, ingressou no Ministério
+      Público Catarinense como Promotor de Justiça Substituto. Em mais de 20
+      anos de atuação como Promotor de Justiça, atuou em doze comarcas como
+      titular, passando por quase todas as áreas de atuação do Ministério
+      Público, com destaque para a área criminal, onde realizou mais de 230
+      júris, e forte atuação na tutela coletiva. Nesse período, recebeu alguns
+      prêmios e reconhecimentos por sua atuação.
+
+
+      Henrique sempre teve paixão por aprender. Por esta razão, fez dezenas de
+      cursos de aperfeiçoamento ao longo de sua carreira. É especialista em
+      Direito Administrativo e  Direito Processual Penal. Concluiu Mestrado em
+      Ciência Jurídica, com pesquisa na área de segurança pública e políticas
+      públicas. Seu Doutorado foi em Ciência Jurídica, com pesquisa em combate à
+      Corrupção e Compliance. Realizou curso de Pós-Doutorado, com pesquisa em
+      ESG e Compliance. Mais recentemente, concluiu especialização em negociação
+      e administração de conflitos.
+
+
+      Como Professor, destacou-se lecionando Direito Penal e Direitos Difusos e
+      Coletivos. Lecionou nos maiores cursos de preparação jurídica no país, com
+      ênfase na preparação de concursos e pós-graduação. Compõe o quadro de
+      professores também da Escola do Ministério Público de Santa Catarina e
+      Escola da Magistratura de Santa Catarina.
+
+
+      Com atuação institucional intensa, foi Membro auxiliar na
+      Procuradoria-Geral da República, em Brasília, atuando em processos
+      criminais perante o Supremo Tribunal Federal. Foi coordenador do Grupo de
+      Trabalho com o objetivo de apresentar propostas voltadas ao aprimoramento
+      da atuação do Ministério Público brasileiro na tutela de direitos
+      coletivos e difusos do Conselho Nacional do Ministério Público e membro
+      colaborador da Comissão de Saúde do CNMP. Integrou o núcleo de
+      autocomposição do Ministério Público Catarinense e a Assessoria da
+      Subprocuradoria-Geral para assuntos jurídicos, designado para força-tarefa
+      em casos de repercussão.
+
+
+      Na parte literária, Henrique da Rosa é autor e coautor de várias obras,
+      dentre as quais destacam-se: Interesses e Direitos Difusos e Coletivos.
+      5ª. ed. Mizuno, 2025; Revisaço Direitos Difusos e Coletivos. 3ª ed. São
+      Paulo: Juspodivm, 2024; Ministério Público. Desafios e Diálogos
+      Interinstitucionais. Atuação. Prerrogativas. Administração Pública.
+      Conselhos Nacionais.. 2ª. ed. Mizuno, 2021 (coautor).
+
+
+      Palestrante reconhecido, ministra, no Brasil e no exterior, cursos e
+      palestras sobre ESG e Compliance. Seu livro sobre interesses e e direitos
+      difusos e coletivos recebeu reconhecimento da Assembleia Legislativa
+      Catarinense.
     actions: []
     media:
       url: /images/Congresso.png
