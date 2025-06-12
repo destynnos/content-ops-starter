@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Henrique da Rosa é natural de Florianópolis. Por influência do avô
       materno, ingressou na faculdade de direito em 1994, colando grau em 1999.
